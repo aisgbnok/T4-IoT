@@ -1,3 +1,7 @@
+"""
+Author: Anthony Swierkosz
+This is Anthony's rewrite of the original code.
+"""
 # All primary imports
 import json
 import os
